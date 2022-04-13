@@ -1,0 +1,12 @@
+/**
+ * Or gate:
+ * out = 0 if (a == 0 and b == 0)
+ *       1 otherwise
+ */
+
+
+CHIP Or {
+  IN a, b;
+  OUT out;
+
+}
