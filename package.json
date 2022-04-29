@@ -1,0 +1,16 @@
+{
+  "name": "computer",
+  "version": "1.0.0",
+  "main": "testMyGate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node testMyGate.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hdl-js": "0.0.72"
+  },
+  "devDependencies": {},
+  "description": ""
+}
